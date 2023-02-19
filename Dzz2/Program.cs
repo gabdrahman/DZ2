@@ -6,8 +6,6 @@
 
 // 23432 -> да
 
-// Console.WriteLine("Введите пятизначное число: ");
-// string number = Console.ReadLine();
 // int len = number.Length;
 
 // if (len == 5)
@@ -25,6 +23,8 @@
 // {
 //     Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
 // }
+// Console.WriteLine("Введите пятизначное число: ");
+// string number = Console.ReadLine();
 
 // Задача 21
 
